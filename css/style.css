@@ -1,0 +1,19 @@
+#plane {
+  background: url(../images/plane.png);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 412px;
+  height: 128px;
+}
+
+#skydiver {
+  opacity: 0;
+  background: url(../images/skydiver.png);
+  position: absolute;
+  top: 68px;
+  right: 122px;
+  width: 128px;
+  height: 70px;
+  transform: scale(0.3, 0.3);
+}
